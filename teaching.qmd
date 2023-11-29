@@ -1,5 +1,15 @@
 ---
-title: "Software"
+title: "Teaching"
 ---
 
-Most of my research software is freely available on my [github page](https://github.com/sje30).
+I currently teach three masters-level courses
+
+1. Scientific Programming with R. (16 hours)
+2. Deep learning. (16 hours)
+3. Introduction to computational neuroscience. (2 hours)
+
+I co-direct the MPhil in Computatinal Biology, and am director of
+studies for Part II and Part III Mathematics in [Magdelene
+College](https://www.magd.cam.ac.uk).
+
+
