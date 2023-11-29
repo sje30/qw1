@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  
+
+website:
+  title: "Stephen J Eglen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - software.qmd
+      - teaching.qmd
+      - about.qmd
+      - href: blog.html
+        text: Blog
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+# nice themes: cosmo, simplex, lumen
+
+
+# lumen
