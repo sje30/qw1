@@ -1,0 +1,14 @@
+---
+title: "My 2nd Post"
+description: "Post description"
+author: "Stephen J Eglen"
+date: "5/22/2022"
+---
+
+this is a test
+
+
+```{r}
+x = 10
+x^2
+```

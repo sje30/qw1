@@ -1,0 +1,5 @@
+---
+title: "Software"
+---
+
+Most of my research software is freely available on my [github page](https://github.com/sje30).
