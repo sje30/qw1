@@ -1,0 +1,77 @@
+---
+title: "About"
+---
+
+About this site
+
+this is me.
+
+If you would like to contact me, please use the form below to send me
+an email.  Be sure to include your email so that I can reply.
+
+```{=html}
+
+<form action="https://public.herotofu.com/v1/e61beae0-8c47-11ee-9a51-8b71ed28739b" method="post" accept-charset="UTF-8">
+
+
+    <input
+
+      type="text"
+
+      placeholder="Your name"
+
+      name="name"
+
+      required
+
+    />
+
+<div>
+    <input
+
+      type="email"
+
+      placeholder="Email"
+
+      name="email"
+
+      required
+
+    />
+</div>
+
+<div>
+    <textarea
+	  rows=10 cols=70
+      placeholder="Your message here"
+
+      name="message"
+
+      required
+
+    ></textarea>
+</div>
+
+
+
+
+    <button
+
+      type="submit"
+
+    >Send a message</button>
+
+
+</form>
+
+```
+
+### Acknowledgements
+
+This website has been built using the [Quarto](https://quarto.org)
+framework.  I followed the example of [Joshua
+French](https://jfrench.github.io) and his materials
+[(github)](https://github.com/jfrench/jfrench.github.io)
+[(videos)](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo).
+
+[Mike Mahoney](https://www.mm218.dev) also has a great site [github](https://github.com/mikemahoney218/mm218.dev/blob/main/_quarto.yml).
