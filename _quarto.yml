@@ -13,9 +13,9 @@ website:
       - publications.qmd
       - software.qmd
       - teaching.qmd
-      - about.qmd
       - href: blog.html
         text: Blog
+      - about.qmd
 
 format:
   html:
