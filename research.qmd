@@ -13,3 +13,5 @@ title: "Research"
 ### Reproducible research
 
 ### Open research
+
+Here is the [map](rrs2/rrs2.qmd#The map)

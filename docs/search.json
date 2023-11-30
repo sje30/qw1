@@ -35,6 +35,13 @@
     "text": "this is a test\n\nx = 10\nx^2\n\n[1] 100"
   },
   {
+    "objectID": "rrs2/rrs2.html",
+    "href": "rrs2/rrs2.html",
+    "title": "RRS2",
+    "section": "",
+    "text": "here you go.\n\nThe map\ncan I make a link to the map?"
+  },
+  {
     "objectID": "posts/test2.html",
     "href": "posts/test2.html",
     "title": "My Post",
@@ -46,7 +53,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "[List of key topics here; images?]\n\nRetinal waves\n\n\nAnalysis of neural spike trains\n\n\nTopographic map formation\n\n\nReproducible research\n\n\nOpen research"
+    "text": "[List of key topics here; images?]\n\nRetinal waves\n\n\nAnalysis of neural spike trains\n\n\nTopographic map formation\n\n\nReproducible research\n\n\nOpen research\nHere is the map"
   },
   {
     "objectID": "teaching.html",
